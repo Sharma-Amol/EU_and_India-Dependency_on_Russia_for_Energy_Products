@@ -30,7 +30,7 @@ The datasets in this study utilizes following: -
 All data are publicly accessible, provided by respective government entities, and latest iterations as on 10th November 2022.
 
 
-** Primary Dataset**
+**Primary Dataset**
 
 [Eurostat Data Browser](https://ec.europa.eu/eurostat/databrowser/explore/all/envir?lang=en&subtheme=nrg&display=list&sort=category)
 
