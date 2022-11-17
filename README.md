@@ -2,8 +2,9 @@
 
 **Code** : [EU & India.ipynb](https://github.com/Sharma-Amol/EU_and_India-Dependency_on_Russia_for_Energy_Products/blob/main/EU%20%26%20India%20-%20Dependency%20on%20Russia%20for%20Energy%20Products.ipynb)
 
-**Presentation** : [EU & India.pptx](https://github.com/Sharma-Amol/EU_and_India-Dependency_on_Russia_for_Energy_Products/blob/main/EU%20%26%20India%20-%20Dependency%20on%20Russia%20for%20Energy%20Products.pptx)
-
+**Presentation** : [EU & India - Slides.pdf](https://github.com/Sharma-Amol/EU_and_India-Dependency_on_Russia_for_Energy_Products/blob/main/EU%20%26%20India%20-%20Dependency%20on%20Russia%20for%20Energy%20Products.pdf)
+                   
+                   
 **Inspiration**
 
 After Covid-19, Russia-Ukraine crisis is touching everyday life.  In this era of globalization, its effects are not localized but being felt around the world via three main channels: financial sanctions, commodity prices and supply chain disruptions. The humanitarian cost is also staggering with reports of tens of thousands killed and millions becoming refugees. 
